@@ -1,0 +1,1651 @@
+fileFormatVersion: 2
+guid: 625a1980f3bc0ecfba4e71a655f3fa54
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3656967477655877564
+    second: flamespritemap_0
+  - first:
+      213: -5358503640913756225
+    second: flamespritemap_1
+  - first:
+      213: 5393741537079119736
+    second: flamespritemap_2
+  - first:
+      213: -6781047227120023914
+    second: flamespritemap_3
+  - first:
+      213: 6059381884053269821
+    second: flamespritemap_4
+  - first:
+      213: 5461797220430395131
+    second: flamespritemap_5
+  - first:
+      213: 5627523592241873362
+    second: flamespritemap_6
+  - first:
+      213: -594736839656214502
+    second: flamespritemap_7
+  - first:
+      213: -7702555782657051770
+    second: flamespritemap_8
+  - first:
+      213: 3737018508725862778
+    second: flamespritemap_9
+  - first:
+      213: 1488497614882293799
+    second: flamespritemap_10
+  - first:
+      213: -8793038917952203435
+    second: flamespritemap_11
+  - first:
+      213: -9109828119691813921
+    second: flamespritemap_12
+  - first:
+      213: 6204592158109566606
+    second: flamespritemap_13
+  - first:
+      213: -9163319127280373253
+    second: flamespritemap_14
+  - first:
+      213: 8179069863401335818
+    second: flamespritemap_15
+  - first:
+      213: 8568466543815720977
+    second: flamespritemap_16
+  - first:
+      213: -2345700520702113488
+    second: flamespritemap_17
+  - first:
+      213: 1839317551450812608
+    second: flamespritemap_18
+  - first:
+      213: -563903896134262892
+    second: flamespritemap_19
+  - first:
+      213: 2120494485506711012
+    second: flamespritemap_20
+  - first:
+      213: -1300688730338193304
+    second: flamespritemap_21
+  - first:
+      213: -6045274958773638005
+    second: flamespritemap_22
+  - first:
+      213: 3010781922121993933
+    second: flamespritemap_23
+  - first:
+      213: 2412918838428912541
+    second: flamespritemap_24
+  - first:
+      213: 964202758976363721
+    second: flamespritemap_25
+  - first:
+      213: 7780796986853264676
+    second: flamespritemap_26
+  - first:
+      213: -300081815205659399
+    second: flamespritemap_27
+  - first:
+      213: 703196120590858391
+    second: flamespritemap_28
+  - first:
+      213: -5771692291333311221
+    second: flamespritemap_29
+  - first:
+      213: 373393907034644352
+    second: flamespritemap_30
+  - first:
+      213: -2989647850168864256
+    second: flamespritemap_31
+  - first:
+      213: 3537862521260872388
+    second: flamespritemap_32
+  - first:
+      213: 8386058828882363016
+    second: flamespritemap_33
+  - first:
+      213: -7063218797276555569
+    second: flamespritemap_34
+  - first:
+      213: -2833848232515516891
+    second: flamespritemap_35
+  - first:
+      213: 6405955597375534274
+    second: flamespritemap_0
+  - first:
+      213: 4450730209724534253
+    second: flamespritemap_1
+  - first:
+      213: -2437910253029945121
+    second: flamespritemap_2
+  - first:
+      213: 2262376474268524053
+    second: flamespritemap_3
+  - first:
+      213: -2098145912874171711
+    second: flamespritemap_4
+  - first:
+      213: -6366280933574712486
+    second: flamespritemap_5
+  - first:
+      213: -5729676333162831448
+    second: flamespritemap_6
+  - first:
+      213: 5833876767792697369
+    second: flamespritemap_7
+  - first:
+      213: -443214951621640790
+    second: flamespritemap_8
+  - first:
+      213: -8946784278671307655
+    second: flamespritemap_9
+  - first:
+      213: 7737300539160233251
+    second: flamespritemap_10
+  - first:
+      213: -2617703128378000188
+    second: flamespritemap_11
+  - first:
+      213: -4987100557550408937
+    second: flamespritemap_12
+  - first:
+      213: -8107035956553926146
+    second: flamespritemap_13
+  - first:
+      213: -1730537813905386860
+    second: flamespritemap_14
+  - first:
+      213: 8922486644272518462
+    second: flamespritemap_15
+  - first:
+      213: -8647115340196697593
+    second: flamespritemap_16
+  - first:
+      213: 8162050147233182870
+    second: flamespritemap_17
+  - first:
+      213: -6507537121035105288
+    second: flamespritemap_18
+  - first:
+      213: 6766968599358645337
+    second: flamespritemap_20
+  - first:
+      213: 7893220259570280298
+    second: flamespritemap_21
+  - first:
+      213: 1498456901034411197
+    second: flamespritemap_22
+  - first:
+      213: -6283286723869782727
+    second: flamespritemap_23
+  - first:
+      213: -3706063175670933712
+    second: flamespritemap_24
+  - first:
+      213: -4059800206920105278
+    second: flamespritemap_25
+  - first:
+      213: 4080201090521108096
+    second: flamespritemap_26
+  - first:
+      213: -5388647622074798042
+    second: flamespritemap_28
+  - first:
+      213: -3327910031962144302
+    second: flamespritemap_29
+  - first:
+      213: -928000172841655456
+    second: flamespritemap_30
+  - first:
+      213: -3003897144452992719
+    second: flamespritemap_31
+  - first:
+      213: 683900132695671305
+    second: flamespritemap_33
+  - first:
+      213: -4136984464115948816
+    second: flamespritemap_34
+  - first:
+      213: -5849757967509853873
+    second: flamespritemap_36
+  - first:
+      213: 7180926548559906319
+    second: flamespritemap_37
+  - first:
+      213: -3621068995314794807
+    second: flamespritemap_38
+  - first:
+      213: 5297546202965663081
+    second: flamespritemap_39
+  - first:
+      213: -2943269098344686767
+    second: flamespritemap_40
+  - first:
+      213: -7587091086237193828
+    second: flamespritemap_41
+  - first:
+      213: 3114550528900134026
+    second: flamespritemap_42
+  - first:
+      213: 252043369081177739
+    second: flamespritemap_43
+  - first:
+      213: -6410919323050058071
+    second: flamespritemap_44
+  - first:
+      213: 1937222547682737353
+    second: flamespritemap_45
+  - first:
+      213: -2703100125216224960
+    second: flamespritemap_46
+  - first:
+      213: -2173552624696379399
+    second: flamespritemap_47
+  - first:
+      213: 6861029543319469578
+    second: flamespritemap_48
+  - first:
+      213: -2237071738393995332
+    second: flamespritemap_49
+  - first:
+      213: -2271812598496420218
+    second: flamespritemap_50
+  - first:
+      213: 80149434089566559
+    second: flamespritemap_51
+  - first:
+      213: 1335818783790893388
+    second: flamespritemap_52
+  - first:
+      213: -3821284212305025101
+    second: flamespritemap_53
+  - first:
+      213: -3430788181275072973
+    second: flamespritemap_54
+  - first:
+      213: -3184172405852519734
+    second: flamespritemap_55
+  - first:
+      213: 2867983057059080721
+    second: flamespritemap_56
+  - first:
+      213: -1100451406434446679
+    second: flamespritemap_57
+  - first:
+      213: 5313828629069621289
+    second: flamespritemap_58
+  - first:
+      213: 7676310635895978032
+    second: flamespritemap_59
+  - first:
+      213: 1733395385692740361
+    second: flamespritemap_60
+  - first:
+      213: -355295777469214473
+    second: flamespritemap_61
+  - first:
+      213: 7701047775770401071
+    second: flamespritemap_62
+  - first:
+      213: 5345535090314687840
+    second: flamespritemap_63
+  - first:
+      213: 7999617737516746807
+    second: flamespritemap_64
+  - first:
+      213: -8841160484598682766
+    second: flamespritemap_65
+  - first:
+      213: -3109722262996987933
+    second: flamespritemap_66
+  - first:
+      213: -6622378283507857283
+    second: flamespritemap_67
+  - first:
+      213: 8681970609369460718
+    second: flamespritemap_68
+  - first:
+      213: 4904382455689537736
+    second: flamespritemap_69
+  - first:
+      213: -6415245705048963013
+    second: flamespritemap_70
+  - first:
+      213: -6172536932865712248
+    second: flamespritemap_71
+  - first:
+      213: -8243687060445311593
+    second: flamespritemap_72
+  - first:
+      213: -5612223734040435025
+    second: flamespritemap_73
+  - first:
+      213: 7091064435811536211
+    second: flamespritemap_74
+  - first:
+      213: -7679171756183005782
+    second: flamespritemap_75
+  - first:
+      213: 4733347468647960912
+    second: flamespritemap_76
+  - first:
+      213: 1109986042975449528
+    second: flamespritemap_77
+  - first:
+      213: -2516187023522703275
+    second: flamespritemap_78
+  - first:
+      213: 4285686533510757354
+    second: flamespritemap_79
+  - first:
+      213: -2303912496201890030
+    second: flamespritemap_80
+  - first:
+      213: -4838252071136322574
+    second: flamespritemap_81
+  - first:
+      213: -8658162684171616986
+    second: flamespritemap_82
+  - first:
+      213: -2332272532705186957
+    second: flamespritemap_83
+  - first:
+      213: 3704260835607678978
+    second: flamespritemap_84
+  - first:
+      213: -2137805971232776789
+    second: flamespritemap_85
+  - first:
+      213: -1773715852370851644
+    second: flamespritemap_86
+  - first:
+      213: 1552472826462614843
+    second: flamespritemap_87
+  - first:
+      213: -4710533190159851867
+    second: flamespritemap_88
+  - first:
+      213: 7816338368268907141
+    second: flamespritemap_89
+  - first:
+      213: -6296852117472344819
+    second: flamespritemap_90
+  - first:
+      213: -9060150678613423782
+    second: flamespritemap_91
+  - first:
+      213: 1681579375761383552
+    second: flamespritemap_92
+  - first:
+      213: -5440383506666122022
+    second: flamespritemap_93
+  - first:
+      213: 1889671161491454638
+    second: flamespritemap_94
+  - first:
+      213: 8023518860269933002
+    second: flamespritemap_95
+  - first:
+      213: 1153651909898260553
+    second: flamespritemap_96
+  - first:
+      213: 2228532218764380874
+    second: flamespritemap_97
+  - first:
+      213: -1926646705143006706
+    second: flamespritemap_98
+  - first:
+      213: -6264099934193386633
+    second: flamespritemap_99
+  - first:
+      213: 8787317092628077443
+    second: flamespritemap_100
+  - first:
+      213: -2239135700682358019
+    second: flamespritemap_101
+  - first:
+      213: 5086382553374857623
+    second: flamespritemap_102
+  - first:
+      213: 716695397048181104
+    second: flamespritemap_103
+  - first:
+      213: 4948022960765547993
+    second: flamespritemap_104
+  - first:
+      213: -2981259030302208626
+    second: flamespritemap_105
+  - first:
+      213: 5712418562545572313
+    second: flamespritemap_106
+  - first:
+      213: -2352284761217724236
+    second: flamespritemap_107
+  - first:
+      213: -1810186162447574287
+    second: flamespritemap_108
+  - first:
+      213: 5026624428682621863
+    second: flamespritemap_109
+  - first:
+      213: -8135594202300599705
+    second: flamespritemap_110
+  - first:
+      213: -5656659253104622484
+    second: flamespritemap_111
+  - first:
+      213: -7625509316628444516
+    second: flamespritemap_112
+  - first:
+      213: -4785329303689340449
+    second: flamespritemap_113
+  - first:
+      213: -7943617344876125200
+    second: flamespritemap_114
+  - first:
+      213: -865967941583584220
+    second: flamespritemap_115
+  - first:
+      213: -8550987131885402908
+    second: flamespritemap_116
+  - first:
+      213: -1881368232355116819
+    second: flamespritemap_117
+  - first:
+      213: -8090384337591162745
+    second: flamespritemap_118
+  - first:
+      213: 9144501535852825071
+    second: flamespritemap_119
+  - first:
+      213: -8949762228296583205
+    second: flamespritemap_120
+  - first:
+      213: -8761165370015873642
+    second: flamespritemap_121
+  - first:
+      213: 7666443768191190284
+    second: flamespritemap_122
+  - first:
+      213: 7209371847319901532
+    second: flamespritemap_123
+  - first:
+      213: -5701245956724657458
+    second: flamespritemap_124
+  - first:
+      213: 4386234882121263229
+    second: flamespritemap_125
+  - first:
+      213: -51529107865091482
+    second: flamespritemap_126
+  - first:
+      213: 5931249824445917231
+    second: flamespritemap_127
+  - first:
+      213: 5738806787543314159
+    second: flamespritemap_128
+  - first:
+      213: 3955770908454351281
+    second: flamespritemap_129
+  - first:
+      213: 5399865317613331714
+    second: flamespritemap_130
+  - first:
+      213: 2639419397241683140
+    second: flamespritemap_131
+  - first:
+      213: 438408049016635099
+    second: flamespritemap_132
+  - first:
+      213: 5824194715199048119
+    second: flamespritemap_133
+  - first:
+      213: -3235982833577878350
+    second: flamespritemap_134
+  - first:
+      213: 1503895488805340919
+    second: flamespritemap_135
+  - first:
+      213: -631503610723265152
+    second: flamespritemap_136
+  - first:
+      213: -1720355159171516604
+    second: flamespritemap_137
+  - first:
+      213: 2579109000436685202
+    second: flamespritemap_138
+  - first:
+      213: 7075859217016246950
+    second: flamespritemap_139
+  - first:
+      213: 2867678540711472388
+    second: flamespritemap_140
+  - first:
+      213: -3126330508868056808
+    second: flamespritemap_141
+  - first:
+      213: -5078496566671141870
+    second: flamespritemap_142
+  - first:
+      213: -3553944992230830953
+    second: flamespritemap_143
+  - first:
+      213: 5773677184261649167
+    second: flamespritemap_144
+  - first:
+      213: -1024991168959657959
+    second: flamespritemap_145
+  - first:
+      213: -8322467540162835524
+    second: flamespritemap_146
+  - first:
+      213: 5578406556957759299
+    second: flamespritemap_147
+  - first:
+      213: -7255334226404793709
+    second: flamespritemap_148
+  - first:
+      213: 590981804414891500
+    second: flamespritemap_149
+  - first:
+      213: 6206852078061951435
+    second: flamespritemap_150
+  - first:
+      213: 6815494725978974304
+    second: flamespritemap_151
+  - first:
+      213: 7224273101726643338
+    second: flamespritemap_152
+  - first:
+      213: -3557845205533333035
+    second: flamespritemap_153
+  - first:
+      213: 2324725637453269603
+    second: flamespritemap_154
+  - first:
+      213: -2263002620170594363
+    second: flamespritemap_155
+  - first:
+      213: 2775653511524269218
+    second: flamespritemap_156
+  - first:
+      213: 8751859478340224115
+    second: flamespritemap_157
+  - first:
+      213: 5336414500604510366
+    second: flamespritemap_158
+  - first:
+      213: 6988445443873398511
+    second: flamespritemap_159
+  - first:
+      213: -4181925275684514578
+    second: flamespritemap_160
+  - first:
+      213: 6867259429867374349
+    second: flamespritemap_161
+  - first:
+      213: -5948425765045110421
+    second: flamespritemap_162
+  - first:
+      213: 3896025662026152439
+    second: flamespritemap_163
+  - first:
+      213: 6119095596611238136
+    second: flamespritemap_164
+  - first:
+      213: 2537852866011295241
+    second: flamespritemap_165
+  - first:
+      213: -7242874068877549255
+    second: flamespritemap_166
+  - first:
+      213: 2250901298232814486
+    second: flamespritemap_167
+  - first:
+      213: -9188058377409937445
+    second: flamespritemap_168
+  - first:
+      213: 4207739194798646479
+    second: flamespritemap_169
+  - first:
+      213: -4811335448366920637
+    second: flamespritemap_170
+  - first:
+      213: 2767952717038408980
+    second: flamespritemap_171
+  - first:
+      213: -2986794374257908515
+    second: flamespritemap_172
+  - first:
+      213: -5619827459587039908
+    second: flamespritemap_173
+  - first:
+      213: -6499679404597106946
+    second: flamespritemap_174
+  - first:
+      213: -713963228585964943
+    second: flamespritemap_175
+  - first:
+      213: -8645476589954136985
+    second: flamespritemap_176
+  - first:
+      213: -1757595454418048545
+    second: flamespritemap_177
+  - first:
+      213: 7601675543878903530
+    second: flamespritemap_178
+  - first:
+      213: -246316458988904922
+    second: flamespritemap_179
+  - first:
+      213: -6343565266739286503
+    second: flamespritemap_180
+  - first:
+      213: 4843611199605667284
+    second: flamespritemap_181
+  - first:
+      213: 1292846736936070775
+    second: flamespritemap_182
+  - first:
+      213: -8370048662844906159
+    second: flamespritemap_183
+  - first:
+      213: -8221469591780748106
+    second: flamespritemap_184
+  - first:
+      213: 2171914945013678114
+    second: flamespritemap_185
+  - first:
+      213: 7201614853523245792
+    second: flamespritemap_186
+  - first:
+      213: -5473100194657497992
+    second: flamespritemap_187
+  - first:
+      213: -384136992570123159
+    second: flamespritemap_188
+  - first:
+      213: 3877364725025263977
+    second: flamespritemap_189
+  - first:
+      213: 3817909836383648622
+    second: flamespritemap_190
+  - first:
+      213: 2273992443124142914
+    second: flamespritemap_191
+  - first:
+      213: 5547842886952779077
+    second: flamespritemap_192
+  - first:
+      213: 1067971806668880758
+    second: flamespritemap_193
+  - first:
+      213: 5162423750108911793
+    second: flamespritemap_194
+  - first:
+      213: 3806206912700133780
+    second: flamespritemap_195
+  - first:
+      213: 3643692122862074910
+    second: flamespritemap_196
+  - first:
+      213: -2369819711889783199
+    second: flamespritemap_197
+  - first:
+      213: -6486942376516134665
+    second: flamespritemap_198
+  - first:
+      213: 7790035338446363723
+    second: flamespritemap_199
+  - first:
+      213: -6447530777640186135
+    second: flamespritemap_200
+  - first:
+      213: 1653197588284121158
+    second: flamespritemap_201
+  - first:
+      213: -566054568292558167
+    second: flamespritemap_202
+  - first:
+      213: -5294602179318217587
+    second: flamespritemap_203
+  - first:
+      213: 876868817927637798
+    second: flamespritemap_204
+  - first:
+      213: -6861391443198392396
+    second: flamespritemap_205
+  - first:
+      213: 6743758314054149163
+    second: flamespritemap_206
+  - first:
+      213: 2619677787248657965
+    second: flamespritemap_207
+  - first:
+      213: 4157784302513336897
+    second: flamespritemap_208
+  - first:
+      213: 1484945071511307374
+    second: flamespritemap_209
+  - first:
+      213: 6375791177026557355
+    second: flamespritemap_210
+  - first:
+      213: -2055276516142100483
+    second: flamespritemap_211
+  - first:
+      213: -3456907497720391182
+    second: flamespritemap_212
+  - first:
+      213: -6560252920456206896
+    second: flamespritemap_213
+  - first:
+      213: -1128022307167899806
+    second: flamespritemap_214
+  - first:
+      213: 744228179625590813
+    second: flamespritemap_215
+  - first:
+      213: -5172545563192183328
+    second: flamespritemap_216
+  - first:
+      213: -2066858716238990053
+    second: flamespritemap_217
+  - first:
+      213: -2551601267338633652
+    second: flamespritemap_218
+  - first:
+      213: -1770580993856747888
+    second: flamespritemap_219
+  - first:
+      213: -9076611855313928781
+    second: flamespritemap_220
+  - first:
+      213: -991753741207819644
+    second: flamespritemap_221
+  - first:
+      213: -3587979349653568836
+    second: flamespritemap_222
+  - first:
+      213: 7687747143859886024
+    second: flamespritemap_223
+  - first:
+      213: 8389249138422571816
+    second: flamespritemap_224
+  - first:
+      213: -5583818150119070870
+    second: flamespritemap_225
+  - first:
+      213: -7637639466582780772
+    second: flamespritemap_226
+  - first:
+      213: -4461390817699558577
+    second: flamespritemap_227
+  - first:
+      213: -6522444347861990736
+    second: flamespritemap_228
+  - first:
+      213: 5147919391333951988
+    second: flamespritemap_229
+  - first:
+      213: -1231217144587101775
+    second: flamespritemap_230
+  - first:
+      213: 5972113790508178897
+    second: flamespritemap_231
+  - first:
+      213: -4285877145259749149
+    second: flamespritemap_232
+  - first:
+      213: 2797606099116675473
+    second: flamespritemap_233
+  - first:
+      213: -9074757235753846179
+    second: flamespritemap_234
+  - first:
+      213: 3802036755655841753
+    second: flamespritemap_235
+  - first:
+      213: -7357866900485472641
+    second: flamespritemap_236
+  - first:
+      213: 2609105238870936892
+    second: flamespritemap_237
+  - first:
+      213: -1869477377868792366
+    second: flamespritemap_238
+  - first:
+      213: 7494551898903331976
+    second: flamespritemap_239
+  - first:
+      213: -1939341081451709397
+    second: flamespritemap_240
+  - first:
+      213: 9217692594130387763
+    second: flamespritemap_241
+  - first:
+      213: 8087458555050862414
+    second: flamespritemap_242
+  - first:
+      213: 7131839238375590130
+    second: flamespritemap_243
+  - first:
+      213: -1975954489056434006
+    second: flamespritemap_244
+  - first:
+      213: 119345212381292924
+    second: flamespritemap_245
+  - first:
+      213: 5124939675801303990
+    second: flamespritemap_246
+  - first:
+      213: 8310275192265243731
+    second: flamespritemap_247
+  - first:
+      213: 6971821033915684179
+    second: flamespritemap_248
+  - first:
+      213: -3972025353715859205
+    second: flamespritemap_249
+  - first:
+      213: 1112967888278900498
+    second: flamespritemap_250
+  - first:
+      213: 8948121743604386609
+    second: flamespritemap_251
+  - first:
+      213: 2676249857382456606
+    second: flamespritemap_252
+  - first:
+      213: -4637155283512533195
+    second: flamespritemap_253
+  - first:
+      213: -4866559606603024871
+    second: flamespritemap_254
+  - first:
+      213: -9154098451347299142
+    second: flamespritemap_255
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: flamespritemap_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c47e74fca686e850800000000000000
+      internalID: 6405955597375534274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flamespritemap_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ded0bb57b8b24cd30800000000000000
+      internalID: 4450730209724534253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flamespritemap_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd01edd9a8dca2ed0800000000000000
+      internalID: -2437910253029945121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flamespritemap_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ed9f0ba63956f10800000000000000
+      internalID: 2262376474268524053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flamespritemap_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c28230a863e1e2e0800000000000000
+      internalID: -2098145912874171711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flamespritemap_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a53efed883d66a7a0800000000000000
+      internalID: -6366280933574712486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flamespritemap_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a1eddb6bb91c70b0800000000000000
+      internalID: -5729676333162831448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flamespritemap_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 384
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91010b7d20816f050800000000000000
+      internalID: 5833876767792697369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flamespritemap_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad3379895269d9f0800000000000000
+      internalID: -443214951621640790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flamespritemap_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c4fb3c913a6d380800000000000000
+      internalID: -8946784278671307655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flamespritemap_10
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 325851da8d9606b60800000000000000
+      internalID: 7737300539160233251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flamespritemap_11
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ccb999bfdc0cabd0800000000000000
+      internalID: -2617703128378000188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flamespritemap_12
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71b2e0837724acab0800000000000000
+      internalID: -4987100557550408937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flamespritemap_13
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef9b84c10c50e7f80800000000000000
+      internalID: -8107035956553926146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flamespritemap_14
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 492d9cbe605ebf7e0800000000000000
+      internalID: -1730537813905386860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flamespritemap_15
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 256
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e35d701645a03db70800000000000000
+      internalID: 8922486644272518462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flamespritemap_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70aaeb799664ff780800000000000000
+      internalID: -8647115340196697593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flamespritemap_17
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69432c05d5d654170800000000000000
+      internalID: 8162050147233182870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flamespritemap_18
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fbc802877590b5a0800000000000000
+      internalID: -6507537121035105288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flamespritemap_19
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49f5577e46c9c28f0800000000000000
+      internalID: -563903896134262892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flamespritemap_20
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 954aef2961a19ed50800000000000000
+      internalID: 6766968599358645337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flamespritemap_21
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a676a99810a5a8d60800000000000000
+      internalID: 7893220259570280298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flamespritemap_22
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db48361cc969bc410800000000000000
+      internalID: 1498456901034411197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flamespritemap_23
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d40d1d3084dc8a0800000000000000
+      internalID: -6283286723869782727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flamespritemap_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0375af26d2b619cc0800000000000000
+      internalID: -3706063175670933712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flamespritemap_25
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c24877b831b8a7c0800000000000000
+      internalID: -4059800206920105278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flamespritemap_26
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e0ca42649cf9830800000000000000
+      internalID: 4080201090521108096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flamespritemap_27
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fcbc11dd25e5dbf0800000000000000
+      internalID: -300081815205659399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flamespritemap_28
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6207a7ab98da735b0800000000000000
+      internalID: -5388647622074798042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flamespritemap_29
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d1007c3573e0d1d0800000000000000
+      internalID: -3327910031962144302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flamespritemap_30
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 063a54272c41f13f0800000000000000
+      internalID: -928000172841655456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flamespritemap_31
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 131b11366730056d0800000000000000
+      internalID: -3003897144452992719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
